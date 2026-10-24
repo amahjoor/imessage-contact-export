@@ -43,7 +43,7 @@ Export your contacts and iMessage conversations to structured JSON format with i
 
 4. **Python Dependencies**:
    ```bash
-   pip install vobject python-dateutil
+   pip install vobject python-dateutil emoji
    ```
 
 ### Usage
